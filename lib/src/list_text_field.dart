@@ -57,6 +57,7 @@ class _ListTextFieldState extends State<ListTextField> {
         },
         child: Container(
           decoration: widget.decoration,
+          constraints: const BoxConstraints.tightFor(width: double.infinity),
           child: Wrap(
             spacing: widget.itemSpacing,
             runSpacing: widget.itemLineSpacing,
