@@ -18,7 +18,7 @@ Provides you a textfield and accompanying controller that users can visually typ
 - Handy controller than can be used with other text fields for more customisation.
 - Remove from list with normal backspace. 
 
-<img src="https://github.com/Meghatronics/list-text-field/blob/develop/demo_screenshot.png" alt="screenshot" width="100"/>
+<img src="https://github.com/Meghatronics/list-text-field/blob/develop/demo_screenshot.png" alt="screenshot" width="250"/>
 
 ![demo video](
 https://github.com/Meghatronics/list-text-field/blob/develop/demo_video.mp4)
