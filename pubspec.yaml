@@ -1,7 +1,7 @@
 name: listtextfield
 description: Provides you a textfield and accompanying controller that users can visually type separated lists into, such as a list of email recipients. 
 version: 0.0.1
-homepage: 
+homepage: https://github.com/Meghatronics/list-text-field
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
