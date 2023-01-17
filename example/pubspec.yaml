@@ -15,7 +15,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   listtextfield: 
-    path: ../../../listtextfield
+    path: ../../listtextfield
 
 dev_dependencies:
   flutter_test:

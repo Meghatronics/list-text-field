@@ -69,6 +69,8 @@ You can access the typed list by calling `items` on the controller
 See example for more information
 ## Additional information
 PRs are welcome.
-Find an issue? Report it. 
+Find an issue? Report it.
+If you find the package useful or interesting, please like 👍🏼 it
+or drop a ⭐️ on github. 
 
 MajorE 👽♦️
