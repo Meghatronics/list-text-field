@@ -34,6 +34,7 @@ class _ListTextFieldDemoState extends State<ListTextFieldDemo> {
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(20),
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text('Email addresses'),
             ListTextField(
@@ -45,7 +46,7 @@ class _ListTextFieldDemoState extends State<ListTextFieldDemo> {
                 );
               },
               itemSpacing: 8,
-              itemLineSpacing: 16,
+              itemLineSpacing: 4,
               validator: (value) {
                 final emailValid = RegExp(
                         r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+")
@@ -56,6 +57,8 @@ class _ListTextFieldDemoState extends State<ListTextFieldDemo> {
                   return 'Enter a valid email address';
                 }
               },
+              decoration:
+                  const BoxDecoration(border: Border(bottom: BorderSide())),
             ),
           ],
         ),
