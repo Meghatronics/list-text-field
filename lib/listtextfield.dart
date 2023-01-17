@@ -1,7 +1,4 @@
 library listtextfield;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/list_text_editing_controller.dart';
+export 'src/list_text_field.dart';
