@@ -18,6 +18,10 @@ Provides you a textfield and accompanying controller that users can visually typ
 - Handy controller than can be used with other text fields for more customisation.
 - Remove from list with normal backspace. 
 
+<img src="https://github.com/Meghatronics/list-text-field/blob/develop/demo_screenshot.png" alt="screenshot" width="250"/>
+
+![demo video](
+https://github.com/Meghatronics/list-text-field/blob/develop/demo_video.mp4)
 ## Getting started
 
 Add the package to your project pubspec.yaml
@@ -69,6 +73,8 @@ You can access the typed list by calling `items` on the controller
 See example for more information
 ## Additional information
 PRs are welcome.
-Find an issue? Report it. 
+Find an issue? Report it.
+If you find the package useful or interesting, please like 👍🏼 it
+or drop a ⭐️ on github. 
 
 MajorE 👽♦️
